@@ -1,2 +1,2 @@
 Git is very good
-readme file is modified here
+Git is a free software GPL
